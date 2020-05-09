@@ -1,0 +1,40 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "nome": "rex",
+      "descricao": "cachorro"
+    },
+    {
+      "id": 2,
+      "nome": "thor",
+      "descricao": "gato"
+    },
+    {
+      "id": 3,
+      "nome": "Lúcifer",
+      "descricao": "gato"
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Gabriel",
+      "endereco": "Rua Luiz Mendes, 862-922 - Pres. Vargas, Içara - SC",
+      "cpf": "81246727099",
+      "telefone": "(47)82727-2070",
+      "pets": [
+        {
+          "id": 1,
+          "nome": "rex",
+          "descricao": "cachorro"
+        },
+        {
+          "id": 3,
+          "nome": "Lúcifer",
+          "descricao": "gato"
+        }
+      ]
+    }
+  ]
+}
